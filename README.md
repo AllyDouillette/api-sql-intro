@@ -10,7 +10,7 @@ In this exercise you are going to practice write SQL for CREATE TABLE, INSERT an
 - Use SQL to insert and records in a table
 
 ## Set Up
-Sign up to [Elephant SQL](https://www.elephantsql.com/) and create a new database instance. 
+Sign up to [Elephant SQL](https://www.elephantsql.com/) and create a new database instance.
 
 ## Standard Criteria
 Write a SQL CREATE TABLE statement that creates a table to store `films`. The table should have the following columns:
